@@ -1,6 +1,9 @@
 /* 3 SHADE COLUMNS
 -------------------------------------------------*/
 .three-shade-col {
+    .price {
+      font-size: 3em;
+    }
     @extend %clearfix;
     @extend %align-center;
     display: block;

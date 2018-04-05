@@ -1,23 +1,44 @@
+- icon: icon-globe
+  title: Typ auta
+  description: Wolkswagen GOLF 4, 1.9 TDI (Disel), 74kw, rok výroby 2001, Šedomodrá metalíza, 5 stupňová prevodovka, 
+
 - icon: icon-user-md
-  title: Invisible braces
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Stav Karoserie
+  description: 'Predchádzajúci majiteľ ho garážoval, taktiež ja som ho garážoval. Podvozok neni hrdzavý. Zadný nárazník je ťuknutý !!'
 
-- icon: icon-diamond
-  title: Cosmetic Dentistry
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: icon-bolt
+  title: Stav Motora
+  description: Motor je vo vinikajúcom stave. Šlape ako nový. Olej pravideľne menený.
 
-- icon: icon-flask
-  title: Stain removal
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+- icon: icon-star
+  title: Komfort
+  description: Zadné fólie (certifikované), Manuálna klimatizácia, Rádio/CD/AUX, El. predné a zadné okná, El. zrkadlá, Lakťová opierka
+
+
+- icon: icon-heart
+  title: Turbo
+  description: Repasované turbo v Septembri 2017 taktiež vymenené hadičky podtlaku na turbe.
+
+- icon: icon-heart-o
+  title: Údržba podvozku
+  description: Vymenene obe ložiská predného naboja (Aug. 2017) a jedno zadné ložisko náboja (Aug. 2017)
+
+- icon: icon-heart-o
+  title: Údržba alternátora
+  description: Výmena reglera na altenatore (Sep. 2017)
+
+
+- icon: icon-heart-o
+  title: Brzdy
+  description: Nové predné brzdove kotúče (Aug. 2017) Nove brzdnej platničky v predu aj v zadu (Aug. 2017)
+
+- icon: icon-heart-o
+  title: Spojka
+  description: Predchádzajúci majiteľ vraj menil  spojku (cca rok 2016)
 
 - icon: icon-globe
-  title: Dentures
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: VIN číslo
+  description: WVWZZZ1JZ1B143663
 
-- icon: icon-ambulance
-  title: Emergency Calls
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
 
-- icon: icon-bed
-  title: Sedation
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+

@@ -11,6 +11,8 @@
         color: $colorPrimary;
         vertical-align: top;
     }
+    min-height: 700px;
+
 }
 
 .hero-content {
@@ -24,7 +26,7 @@
     }
     .hero-content-inner {
         @include breakpoint(small) {
-            width: 50%;
+            width: 30%;
         }
     }
     h1 {
