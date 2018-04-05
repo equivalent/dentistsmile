@@ -60,5 +60,6 @@ exclude: [
 ]
 
 # Theme Settings
-analytics: 
+
+analytics: 'UA-72596708-4'
 google_verification:
