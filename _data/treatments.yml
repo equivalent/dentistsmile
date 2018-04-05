@@ -1,6 +1,6 @@
 - icon: icon-globe
   title: Typ auta
-  description: Wolkswagen GOLF 4, 1.9 TDI (Disel), 74kw, rok výroby 2001, Šedomodrá metalíza, 5 stupňová prevodovka, 
+  description: Wolkswagen GOLF 4, 1.9 TDI (Disel), 74kw, rok výroby 2001, Šedomodrá metalíza, 5 stupňová prevodovka
 
 - icon: icon-user-md
   title: Stav Karoserie
@@ -8,7 +8,7 @@
 
 - icon: icon-bolt
   title: Stav Motora
-  description: Motor je vo vynikajúcom stave. Šlape ako nový. Olej pravidelne menený.
+  description: Motor je vo vynikajúcom stave. Šlape ako nový. Olej pravidelne menený
 
 - icon: icon-star
   title: Komfort
@@ -17,7 +17,7 @@
 
 - icon: icon-heart
   title: Turbo
-  description: Repasované turbo v Septembri 2017 taktiež vymenené hadičky podtlaku na turbe.
+  description: Repasované turbo v Septembri 2017 taktiež vymenené hadičky podtlaku na turbe
 
 - icon: icon-heart-o
   title: Údržba podvozku
