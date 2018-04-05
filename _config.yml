@@ -2,7 +2,7 @@
 title: Kúp môj Golfik
 description: "VW Golf 4 na predaj"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
+url: "https://kup-moj-golfik.sk" # the name of your domain
 logo_url: img/logo.png
 
 # Hero
