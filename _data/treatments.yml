@@ -4,7 +4,7 @@
 
 - icon: icon-user-md
   title: Stav Karoserie
-  description: 'Predchádzajúci majiteľ ho garážoval, taktiež ja som ho garážoval. Podvozok neni hrdzavý. Zadný nárazník je ťuknutý !!'
+  description: 'Predchádzajúci majiteľ ho garážoval, taktiež ja som ho garážoval. Podvozok je v dobrom stave bez hrdze. Zadný nárazník je ťuknutý !!'
 
 - icon: icon-bolt
   title: Stav Motora
@@ -25,12 +25,12 @@
 
 - icon: icon-heart-o
   title: Údržba alternátora
-  description: Výmena reglera na altenatore (Sep. 2017)
+  description: Výmena reglera na altenátore (Sep. 2017)
 
 
 - icon: icon-heart-o
   title: Brzdy
-  description: Nové predné brzdove kotúče (Aug. 2017) Nove brzdnej platničky v predu aj v zadu (Aug. 2017)
+  description: Nové predné brzdové kotúče (Aug. 2017) Nové brzdné platničky v predu aj v zadu (Aug. 2017)
 
 - icon: icon-heart-o
   title: Spojka
